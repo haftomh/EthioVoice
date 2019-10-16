@@ -1,0 +1,275 @@
+{
+  "results": [
+    {
+      "id": "1",
+      "category": "sport",
+      "title": "How much do Mark Zuckerberg earns in one second?",
+      "url": "",
+      "type": "news",
+      "source": "reporter",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "2",
+      "category": "politica",
+      "title": "Addis Ababa Hosting 2nd All Africa Postharvest Congress and Exhibition",
+      "url": "",
+      "type": "video",
+      "source": "zehabesha",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "3",
+      "category": "politica",
+      "title": "Ethiopian economy at the heart of Abiy's diplomacy",
+      "url": "",
+      "type": "news",
+      "source": "addis_admass",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "4",
+      "category": "politica",
+      "title": "Amhara regional statte plans to create over 1m jobs",
+      "url": "",
+      "type": "news",
+      "source": "thereporter",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "5",
+      "category": "politica",
+      "title": "Russia set to host 40 African leaders",
+      "url": "",
+      "type": "news",
+      "source": "voa",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "6",
+      "category": "politica",
+      "title": "China grants scholarships for 228 Ethiopian students",
+      "url": "",
+      "type": "news",
+      "source": "addis_fortune",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "7",
+      "category": "politica",
+      "title": "Are churches and other religious buildings in your country private or public properties?",
+      "url": "",
+      "type": "news",
+      "source": "abay_media",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "8",
+      "category": "sport",
+      "title": "How much do Mark Zuckerberg earns in one second?",
+      "url": "",
+      "type": "news",
+      "source": "reporter",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "9",
+      "category": "business",
+      "title": "Addis Ababa Hosting 2nd All Africa Postharvest Congress and Exhibition",
+      "url": "",
+      "type": "news",
+      "source": "zehabesha",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "10",
+      "category": "entertainment",
+      "title": "Ethiopian economy at the heart of Abiy's diplomacy",
+      "url": "",
+      "type": "video",
+      "source": "addis_admass",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "11",
+      "category": "politica",
+      "title": "Amhara regional statte plans to create over 1m jobs",
+      "url": "",
+      "type": "video",
+      "source": "thereporter",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "12",
+      "category": "other",
+      "title": "Russia set to host 40 African leaders",
+      "url": "",
+      "type": "news",
+      "source": "voa",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "13",
+      "category": "sport",
+      "title": "China grants scholarships for 228 Ethiopian students",
+      "url": "",
+      "type": "news",
+      "source": "addis_fortune",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "15",
+      "category": "tourism",
+      "title": "How much do Mark Zuckerberg earns in one second?",
+      "url": "",
+      "type": "news",
+      "source": "reporter",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "16",
+      "category": "crime",
+      "title": "Addis Ababa Hosting 2nd All Africa Postharvest Congress and Exhibition",
+      "url": "",
+      "type": "video",
+      "source": "zehabesha",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "17",
+      "category": "fashion",
+      "title": "Ethiopian economy at the heart of Abiy's diplomacy",
+      "url": "",
+      "type": "news",
+      "source": "addis_admass",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "18",
+      "category": "sport",
+      "title": "Amhara regional statte plans to create over 1m jobs",
+      "url": "",
+      "type": "video",
+      "source": "thereporter",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "19",
+      "category": "politica",
+      "title": "Russia set to host 40 African leaders",
+      "url": "",
+      "type": "news",
+      "source": "voa",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "20",
+      "category": "politica",
+      "title": "China grants scholarships for 228 Ethiopian students",
+      "url": "",
+      "type": "video",
+      "source": "addis_fortune",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "21",
+      "category": "politica",
+      "title": "Are churches and other religious buildings in your country private or public properties?",
+      "url": "",
+      "type": "news",
+      "source": "abay_media",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "22",
+      "category": "sport",
+      "title": "How much do Mark Zuckerberg earns in one second?",
+      "url": "",
+      "type": "news",
+      "source": "reporter",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "23",
+      "category": "business",
+      "title": "Addis Ababa Hosting 2nd All Africa Postharvest Congress and Exhibition",
+      "url": "",
+      "type": "news",
+      "source": "zehabesha",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "24",
+      "category": "entertainment",
+      "title": "Ethiopian economy at the heart of Abiy's diplomacy",
+      "url": "",
+      "type": "news",
+      "source": "addis_admass",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "25",
+      "category": "politica",
+      "title": "Amhara regional statte plans to create over 1m jobs",
+      "url": "",
+      "type": "news",
+      "source": "thereporter",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "26",
+      "category": "other",
+      "title": "Russia set to host 40 African leaders",
+      "url": "",
+      "type": "news",
+      "source": "voa",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "27",
+      "category": "sport",
+      "title": "China grants scholarships for 228 Ethiopian students",
+      "url": "",
+      "type": "news",
+      "source": "addis_fortune",
+      "date": "",
+      "time": ""
+    },
+    {
+      "id": "14",
+      "category": "For You",
+      "title": "Are churches and other religious buildings in your country private or public properties?",
+      "url": "",
+      "type": "video",
+      "source": "abay_media",
+      "date": "",
+      "time": ""
+    }
+
+  ]
+}
